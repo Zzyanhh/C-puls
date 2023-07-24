@@ -1,0 +1,28 @@
+//#define _CRT_SECURE_NO_WARNINGS
+//#include <iostream>
+//using namespace std;
+//
+//int main()
+//{
+	//cout << "hellow" << endl;
+
+	//int a = 10;
+	//cout << "a = " << a << endl;
+
+	//const修饰变量为常量
+	//变量起名，下划线，字母，数字，第一个必须是下划线或字母
+	//float a = 3.14f;   默认双精度，后加f单精度
+
+	//float a = 3.1415926f;
+	//cout << a << endl;
+	//double b = 3.1415926;
+	//cout << b << endl;
+
+	//float a = 3e3f;
+	//cout << a << endl;
+	//double b = 3e-3;
+	//cout << b << endl;
+
+//	system("pause");
+//	return 0;
+//}
